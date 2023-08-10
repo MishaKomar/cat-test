@@ -20,8 +20,7 @@ class HomePage extends StatelessWidget {
       body: Center(
         child: BlocBuilder<HomeBloc, HomeState>(
           builder: (BuildContext context, HomeState state) {
-            return Column(
-              mainAxisAlignment: MainAxisAlignment.center,
+            return ListView(
               children: [
                 // if (state.hasFact)
                 //   CatFactTile(
@@ -34,7 +33,9 @@ class HomePage extends StatelessWidget {
                     child: Card(
                       clipBehavior: Clip.antiAlias,
                       child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
+                          Image.network('https://cataas.com/cat'),
                           ListTile(
                             title: Text(
                               'Cat fact #${state.number}',
@@ -85,7 +86,6 @@ class HomePage extends StatelessWidget {
                               ),
                             ],
                           ),
-                          Image.network('https://cataas.com/cat'),
                         ],
                       ),
                     ),

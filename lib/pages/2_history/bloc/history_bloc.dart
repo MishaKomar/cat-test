@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:cattest/base/models/cat_fact_model.dart';
+import 'package:cattest/base/repositories/fact_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'history_event.dart';
@@ -10,8 +10,13 @@ import 'history_state.dart';
 /// A simple [Bloc] that manages an [HistoryState] as its state.
 /// {@endtemplate}
 class HistoryBloc extends Bloc<HistoryEvent, HistoryState> {
+  final FactsRepository _repository;
+
   /// {@macro history_bloc}
-  HistoryBloc() : super(const HistoryState()) {
+  HistoryBloc({
+    required FactsRepository repository,
+  })  : _repository = repository,
+        super(const HistoryState()) {
     on<LoadHistoryInput>(_onLoadHistoryInput);
     on<ClearHistoryInput>(_onClearHistoryInput);
 
@@ -20,15 +25,13 @@ class HistoryBloc extends Bloc<HistoryEvent, HistoryState> {
 
   FutureOr _onLoadHistoryInput(
       LoadHistoryInput event, Emitter<HistoryState> emit) {
-    emit(
-      state.copyWith(
-        list: List.generate(10, (index) => CatFactModel.mock()),
-      ),
-    );
+    final list = _repository.factHistory();
+    emit(state.copyWith(list: list));
   }
 
   FutureOr _onClearHistoryInput(
       ClearHistoryInput event, Emitter<HistoryState> emit) {
-    emit(state.copyWith(list: []));
+    final list = _repository.clearHistory();
+    emit(state.copyWith(list: list));
   }
 }

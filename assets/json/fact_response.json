@@ -1,0 +1,14 @@
+{
+  "status": {
+    "verified": null,
+    "sentCount": 0
+  },
+  "_id": "644915697ed67a4bff5e42e5",
+  "user": "644911127ed67a4bff5e4013",
+  "text": "Кот мяу.",
+  "type": "cat",
+  "deleted": false,
+  "createdAt": "2023-04-26T12:13:29.779Z",
+  "updatedAt": "2023-04-26T12:13:29.779Z",
+  "__v": 0
+}

@@ -1,4 +1,4 @@
-import 'package:cattest/base/models/cat_fact_model.dart';
+import 'package:cattest/base/models/bussines/fact_model.dart';
 
 /// {@template home_state}
 /// A simple state model for [HomeBloc].
@@ -6,7 +6,7 @@ import 'package:cattest/base/models/cat_fact_model.dart';
 
 class HomeState {
   /// {@macro home_state}
-  final CatFactModel? fact;
+  final FactModel? fact;
   final String? error;
   final bool loading;
   final int? number;
@@ -23,7 +23,7 @@ class HomeState {
   });
 
   HomeState copyWith({
-    CatFactModel? fact,
+    FactModel? fact,
     String? error,
     bool? loading,
     int? number,

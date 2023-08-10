@@ -1,11 +1,11 @@
-import 'package:cattest/base/models/cat_fact_model.dart';
+import 'package:cattest/base/models/bussines/fact_model.dart';
 
 /// {@template history_state}
 /// A simple state model for [HomeBloc].
 /// {@endtemplate}
 
 class HistoryState {
-  final List<CatFactModel> list;
+  final List<FactModel> list;
 
   /// {@macro history_state}
   const HistoryState({
@@ -13,7 +13,7 @@ class HistoryState {
   });
 
   HistoryState copyWith({
-    List<CatFactModel>? list,
+    List<FactModel>? list,
   }) =>
       HistoryState(
         list: list ?? this.list,
