@@ -15,7 +15,7 @@ import 'package:cattest/base/storages/provider/hive_storage_provider.dart';
 class FactsRepository {
   static final FactsRepository _instance = FactsRepository._(
     kIsDemo
-        ? const MockNetworkClient()
+        ? MockNetworkClient()
         : RetrofitNetworkClient(DioNetworkProvider.i.dio),
     HiveStorage(
       HiveStorageProvider.i.factBox,

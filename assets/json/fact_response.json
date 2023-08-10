@@ -1,14 +1,1430 @@
-{
-  "status": {
-    "verified": null,
-    "sentCount": 0
+[
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "626bc59b41f4aa428ac14689",
+    "user": "6267fca74514425908fc661d",
+    "text": "Noseprint of every cat is unique like human fingerprints.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-04-29T11:01:47.586Z",
+    "updatedAt": "2022-04-29T11:01:47.586Z",
+    "__v": 0
   },
-  "_id": "644915697ed67a4bff5e42e5",
-  "user": "644911127ed67a4bff5e4013",
-  "text": "Кот мяу.",
-  "type": "cat",
-  "deleted": false,
-  "createdAt": "2023-04-26T12:13:29.779Z",
-  "updatedAt": "2023-04-26T12:13:29.779Z",
-  "__v": 0
-}
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63ca901c9ad43a5228fe0726",
+    "user": "63b9a6739964acb3c4ca7841",
+    "text": "%^&&**(*&)$#@!.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-20T12:59:08.831Z",
+    "updatedAt": "2023-01-20T12:59:08.831Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "5a4d78136ef087002174c292",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2018-04-18T20:20:02.471Z",
+    "user": "5a9ac18c7478810ea6c06381",
+    "text": "Like humans, cats tend to favor one paw over another.",
+    "deleted": false,
+    "source": "user",
+    "__v": 0,
+    "type": "cat",
+    "used": false
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63cc515eeec42e60ec3281c7",
+    "user": "63c15de69dd5b79e64cfb2a7",
+    "text": "Сапаппо.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-21T20:55:58.381Z",
+    "updatedAt": "2023-01-21T20:55:58.381Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "626ca06741f4aa428ac22718",
+    "user": "6263383cf782346dbf665fb1",
+    "text": "New new new new fact aboooooout cats.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-04-30T02:35:19.275Z",
+    "updatedAt": "2022-04-30T02:35:19.275Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "618ee83827d5e70263bba3c1",
+    "user": "618ee2bd27d5e70263bba175",
+    "text": "C.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2021-11-12T22:18:32.263Z",
+    "updatedAt": "2021-11-12T22:18:32.263Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "643945c9a93afa76532ce867",
+    "user": "6439174513ff897808b04a2f",
+    "text": "Имеются ли в поле ввода какие-либо ограничения на язык ввода? русский.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-04-14T12:23:37.191Z",
+    "updatedAt": "2023-04-14T12:23:37.191Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64087e17ce979a6559213329",
+    "user": "61c0a1744827dd8cb961393d",
+    "text": "Hello funny cat...",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-03-08T12:22:47.013Z",
+    "updatedAt": "2023-03-08T12:22:47.013Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "591f98883b90f7150a19c256",
+    "__v": 0,
+    "text": "The cat's tail is used to maintain balance.",
+    "source": "api",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "type": "cat",
+    "createdAt": "2018-04-14T20:20:03.066Z",
+    "deleted": false,
+    "used": false,
+    "user": "5a9ac18c7478810ea6c06381"
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62b6ceb0fe1d71746da70522",
+    "user": "62a99f6ea4b28d647f6ecb6f",
+    "text": "Cat likes sleep for a long time1256.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-06-25T09:00:32.155Z",
+    "updatedAt": "2022-06-25T09:00:32.155Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "642ff4f2d56bfe7a06ce6ac8",
+    "user": "642fee0fd56bfe7a06ce6788",
+    "text": "I'm not sure that I know facts about cats..",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-04-07T10:48:18.601Z",
+    "updatedAt": "2023-04-07T10:48:18.601Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "626b078f2266d0c1d1933542",
+    "user": "626702aecdcef2bc79a4aaec",
+    "text": "Try to add new facts for testing.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-04-28T21:30:55.010Z",
+    "updatedAt": "2022-04-28T21:30:55.010Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "6202f69b200647a33958e420",
+    "user": "6202f690200647a33958e416",
+    "text": "Dad.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-02-08T23:02:51.243Z",
+    "updatedAt": "2022-02-08T23:02:51.243Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63c03d5f7faacb8ad47bd0c3",
+    "user": "63bffafe7faacb8ad47ba92b",
+    "text": "Вапвари.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-12T17:03:27.125Z",
+    "updatedAt": "2023-01-12T17:03:27.125Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "6436772d6c823f4f6e5adc9f",
+    "user": "642fee0fd56bfe7a06ce6788",
+    "text": "Щ.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-04-12T09:17:33.651Z",
+    "updatedAt": "2023-04-12T09:17:33.651Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64353ce5a95eb114b956bf5d",
+    "user": "641e13557f1cdc6e3922f768",
+    "text": "ПСЫ kittens(6).",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-04-11T10:56:37.490Z",
+    "updatedAt": "2023-04-11T10:56:37.490Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62b6cc5cfe1d71746da703d0",
+    "user": "62a7570f47a75f7c3fb373a1",
+    "text": "New fact 200.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-06-25T08:50:36.471Z",
+    "updatedAt": "2022-06-25T08:50:36.471Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "622512c4b4f0a84bbf026993",
+    "user": "6225043bb4f0a84bbf025d98",
+    "text": "Cats are so cool that my sister likes them.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-03-06T20:00:04.638Z",
+    "updatedAt": "2022-03-06T20:00:04.638Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63d163fbad1bbe64b5075295",
+    "user": "6241761ba7107c0e136dbe88",
+    "text": "Ertyuiop.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-25T17:16:43.790Z",
+    "updatedAt": "2023-01-25T17:16:43.790Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64830ca23ad66ef4a7ec6310",
+    "user": "64775e3bdce8b01234b5ddbc",
+    "text": ";ljndfkjgnksdnfkjgnksdfnkgndsfgsdfgsdf.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-06-09T11:27:30.165Z",
+    "updatedAt": "2023-06-09T11:27:30.165Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "623900b66f13e62a722f0dc4",
+    "user": "6238ffedb18ea9c710f285d6",
+    "text": "Enother fact.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-03-21T22:48:22.166Z",
+    "updatedAt": "2022-03-21T22:48:22.166Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "5d38b2270f1c57001592f12d",
+    "source": "user",
+    "type": "cat",
+    "deleted": false,
+    "user": "5a9ac18c7478810ea6c06381",
+    "text": "Among the British government officials who keep things running smoothly at 10 Downing Street is Larry, a cat that holds the distinguished position of Chief Mouser. Larry's duties, according to the U.K. government, include \"greeting guests\", \"testing antique furniture for napping quality\", and \"contemplating a solution to the mouse occupancy of the house.\".",
+    "createdAt": "2019-07-24T19:31:51.941Z",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "__v": 0,
+    "used": false
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "624601f2fa0ee9f34785a33d",
+    "user": "6243309efade95100ddbfd49",
+    "text": "Лошадь должна много гулять.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-03-31T19:33:06.828Z",
+    "updatedAt": "2022-03-31T19:33:06.828Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63cc6be2eec42e60ec328baa",
+    "user": "63c15de69dd5b79e64cfb2a7",
+    "text": "Back.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-21T22:49:06.770Z",
+    "updatedAt": "2023-01-21T22:49:06.770Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63c9a5649ad43a5228fd6914",
+    "user": "63bd1572cb93232c7353b865",
+    "text": "Кесанпмгиршотльдбжэю Тест тест тест.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-19T20:17:40.157Z",
+    "updatedAt": "2023-01-19T20:17:40.157Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62adc6fe0b18b4f4fbc61ea5",
+    "user": "62a99f6ea4b28d647f6ecb6f",
+    "text": "Cats are our little friends.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-06-18T12:37:18.982Z",
+    "updatedAt": "2022-06-18T12:37:18.982Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "627198736703b18683187afd",
+    "user": "626702aecdcef2bc79a4aaec",
+    "text": "Privet.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-05-03T21:02:43.502Z",
+    "updatedAt": "2022-05-03T21:02:43.502Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "5a4d79496ef087002174c294",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2018-07-08T20:20:03.118Z",
+    "user": "5a9ac18c7478810ea6c06381",
+    "text": "Approximately 40,000 people are bitten by cats in the U.S. annually.",
+    "deleted": false,
+    "source": "user",
+    "__v": 0,
+    "type": "cat",
+    "used": false
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64c2a255bebf181e9a23d48a",
+    "user": "63ec113cd19fc133601368bb",
+    "text": "Cats like to do mrr.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-07-27T16:59:01.671Z",
+    "updatedAt": "2023-07-27T16:59:01.671Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63c90f2d0799132dc9515997",
+    "user": "63bd1572cb93232c7353b865",
+    "text": "There are 1 000 000 cats in Turkey.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-19T09:36:45.152Z",
+    "updatedAt": "2023-01-19T09:36:45.152Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "5a026058134ec2001f032f92",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2018-02-04T21:20:02.388Z",
+    "user": "5a9ac18c7478810ea6c06381",
+    "text": "For a cat at rest, the average heart rate usually is between 150 and 180 bpm, more than twice that of a human, which averages 70 bpm.",
+    "deleted": false,
+    "source": "user",
+    "__v": 0,
+    "type": "cat",
+    "used": false
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62b0afc27ba56cc1ff719f99",
+    "user": "62a9e464f9b786c136feffcf",
+    "text": "Кошки существовали на земле более 50 миллионов лет назад. Конечно, это были не те милые домашние пушистики. Древних предков кошек отличал более суровый нрав, но это не помешало человеку в процессе эволюции, приручить этих капризных созданий.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-06-20T17:34:58.084Z",
+    "updatedAt": "2022-06-20T17:34:58.084Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62a5a0da8693c42ae7ed7f62",
+    "user": "62a50b21e890c82c536fb865",
+    "text": "Кошки правши, а коты — левши.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-06-12T08:16:26.774Z",
+    "updatedAt": "2022-06-12T08:16:26.774Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "591f98703b90f7150a19c178",
+    "__v": 0,
+    "text": "A cats field of vision is about 185 degrees.",
+    "source": "api",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "type": "cat",
+    "createdAt": "2018-05-06T20:20:02.193Z",
+    "deleted": false,
+    "used": false,
+    "user": "5a9ac18c7478810ea6c06381"
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "640df95859ce917bc0d1bcf6",
+    "user": "640b5ccc2c4c3955079b01f8",
+    "text": "Fact about cats number one.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-03-12T16:10:00.649Z",
+    "updatedAt": "2023-03-12T16:10:00.649Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "627226496703b1868318b89a",
+    "user": "6263c963f782346dbf66f6a0",
+    "text": "Собаки и котята.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-05-04T07:07:53.596Z",
+    "updatedAt": "2022-05-04T07:07:53.596Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "641f41a08023fe33f6a1a846",
+    "user": "640603b3ebdaaca99be7edd5",
+    "text": "Ghdskyt.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-03-25T18:46:56.370Z",
+    "updatedAt": "2023-03-25T18:46:56.370Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64878715240599ab4c657c03",
+    "user": "6477aae4dce8b01234b60b80",
+    "text": "Tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-06-12T20:59:01.489Z",
+    "updatedAt": "2023-06-12T20:59:01.489Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "649f1cee5d8933eb493ae971",
+    "user": "647f54f28e4a4f596e4db733",
+    "text": "_id\": \"647f54f28e4a4f596e4db733\".",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-06-30T18:20:30.122Z",
+    "updatedAt": "2023-06-30T18:20:30.122Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "6240990c2d044f255236b6aa",
+    "user": "61d36157403b4002d3798478",
+    "text": "Fact333.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-03-27T17:04:12.941Z",
+    "updatedAt": "2022-03-27T17:04:12.941Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62a5b3f48693c42ae7ed86e5",
+    "user": "62a50b21e890c82c536fb865",
+    "text": "Ввели новый факт.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-06-12T09:37:56.192Z",
+    "updatedAt": "2022-06-12T09:37:56.192Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "5b1b40d4841d9700146158d8",
+    "updatedAt": "2020-08-28T20:20:02.006Z",
+    "createdAt": "2018-06-14T20:20:03.747Z",
+    "user": "5a9ac18c7478810ea6c06381",
+    "text": "Koko the gorilla got a pet cat for her birthday in 1985 after she requested to have one as a birthday present.",
+    "deleted": false,
+    "source": "user",
+    "__v": 0,
+    "type": "cat",
+    "used": true
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62fb9949328ae23b9a6bbddc",
+    "user": "61d36157403b4002d3798478",
+    "text": "Cats meow for their humans, not other cat.2222233.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-08-16T13:19:05.493Z",
+    "updatedAt": "2022-08-16T13:19:05.493Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64249cca866f4c47ad45f9fc",
+    "user": "6420477391e41c8af78a9f28",
+    "text": "Cats first were domesticated in ancient Egypt 7777 years ago.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-03-29T20:17:14.752Z",
+    "updatedAt": "2023-03-29T20:17:14.752Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "642ebad37562deff10942b42",
+    "user": "61b11802f9c77cdad2d21bd3",
+    "text": "Факт для Татьяны.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-04-06T12:28:03.160Z",
+    "updatedAt": "2023-04-06T12:28:03.160Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63c958919ad43a5228fbe2ab",
+    "user": "63b9a6739964acb3c4ca7841",
+    "text": "If the cat defends itself _ it presses its ears to its head, and when it attacks _ it spreads its ears to the sides for greater intimidation..",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-19T14:49:53.301Z",
+    "updatedAt": "2023-01-19T14:49:53.301Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "59951d5ef2db18002031693c",
+    "user": "5a9ac18c7478810ea6c06381",
+    "text": "America’s cats, including housecats that adventure outdoors and feral cats, kill between 1.3 billion and 4.0 billion birds in a year.",
+    "deleted": false,
+    "source": "user",
+    "__v": 0,
+    "updatedAt": "2020-11-26T21:20:02.687Z",
+    "type": "cat",
+    "createdAt": "2018-01-08T21:20:03.690Z",
+    "used": true
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "624c0a426674929831643bc1",
+    "user": "623ce13e9f15f61ff4f483f9",
+    "text": "Факт, совершенно новый.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-04-05T09:22:10.515Z",
+    "updatedAt": "2022-04-05T09:22:10.515Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "627226ae6703b1868318b8d1",
+    "user": "6263c963f782346dbf66f6a0",
+    "text": "Großes Katzenmädchen.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-05-04T07:09:34.114Z",
+    "updatedAt": "2022-05-04T07:09:34.114Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "626fd6aa046f5815c2f1d7d2",
+    "user": "626eac9d02af68f9e3f14390",
+    "text": "Тестыы.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-05-02T13:03:38.043Z",
+    "updatedAt": "2022-05-02T13:03:38.043Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "627a855d7d22f6d66ab0d544",
+    "user": "627a80547d22f6d66ab0d17a",
+    "text": "***************.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-05-10T15:31:41.012Z",
+    "updatedAt": "2022-05-10T15:31:41.012Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62b9e5f975fe9d99757daa16",
+    "user": "6267e9da4514425908fc5232",
+    "text": "Три кота.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-06-27T17:16:41.083Z",
+    "updatedAt": "2022-06-27T17:16:41.083Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64a82f678c6b73396aaeb2a0",
+    "user": "649a8687e846b1eb98f70b7f",
+    "text": "There is 1000 cat breeds in the world.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-07-07T15:29:43.314Z",
+    "updatedAt": "2023-07-07T15:29:43.314Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64088021ce979a6559213410",
+    "user": "61c0a1744827dd8cb961393d",
+    "text": "Hello funny cat...!!!!.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-03-08T12:31:29.374Z",
+    "updatedAt": "2023-03-08T12:31:29.374Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "5f919b62050f0600174017a9",
+    "used": false,
+    "source": "user",
+    "type": "cat",
+    "deleted": false,
+    "user": "5f919b37050f0600174017a8",
+    "text": "The clavicle of a cat is a floating bone, it is not attached to anything.",
+    "createdAt": "2020-10-22T14:46:58.708Z",
+    "updatedAt": "2020-10-22T14:46:58.708Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "626e894502af68f9e3f124d0",
+    "user": "62413ee9a7107c0e136daada",
+    "text": "Genuine attachment.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-05-01T13:21:09.757Z",
+    "updatedAt": "2022-05-01T13:21:09.757Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "591f98448dec2e14e3c20b1e",
+    "__v": 0,
+    "text": "At 4 weeks, it is important to play with kittens so that they do not develope a fear of people.",
+    "source": "api",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "type": "cat",
+    "createdAt": "2018-01-04T01:10:54.673Z",
+    "deleted": false,
+    "used": false,
+    "user": "5a9ac18c7478810ea6c06381"
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63c953f50799132dc95184b5",
+    "user": "63b9a6739964acb3c4ca7841",
+    "text": "184739075.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-19T14:30:13.432Z",
+    "updatedAt": "2023-01-19T14:30:13.432Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62741793a659431711fd64c8",
+    "user": "62685c364514425908fccbb5",
+    "text": "Testtt.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-05-05T18:29:39.143Z",
+    "updatedAt": "2022-05-05T18:29:39.143Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62ad5eb60b18b4f4fbc5f5bf",
+    "user": "62ab7f43a5fafe37d23e0c33",
+    "text": "Here is another fact.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-06-18T05:12:22.398Z",
+    "updatedAt": "2022-06-18T05:12:22.398Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62700ac614e51b84dcc9fd0d",
+    "user": "626d48ace5fb639a3c4fe603",
+    "text": "123659.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-05-02T16:45:58.449Z",
+    "updatedAt": "2022-05-02T16:45:58.449Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64a67c667e5ac1013fbe38a4",
+    "user": "64a565f38f0f32e9a4f9863b",
+    "text": "Ааааа.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-07-06T08:33:42.110Z",
+    "updatedAt": "2023-07-06T08:33:42.110Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "640de75759ce917bc0d1ac63",
+    "user": "640d991b59ce917bc0d17d2e",
+    "text": "Perfect fact about cats.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-03-12T14:53:11.808Z",
+    "updatedAt": "2023-03-12T14:53:11.808Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63c9a71b9ad43a5228fd6b0b",
+    "user": "63bd1572cb93232c7353b865",
+    "text": "Уывкеапнрголд.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-19T20:24:59.978Z",
+    "updatedAt": "2023-01-19T20:24:59.978Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62dd31d9d0492de9fa5cb23a",
+    "user": "62dd2edad0492de9fa5cadd9",
+    "text": "Cats are bigger than some people.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-07-24T11:49:45.891Z",
+    "updatedAt": "2022-07-24T11:49:45.891Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63e2c7c1d560cba06c1c846b",
+    "user": "63d26e5a6321d18c83b2d417",
+    "text": "Cats5.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-02-07T21:50:57.983Z",
+    "updatedAt": "2023-02-07T21:50:57.983Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64a88eccb83e54e5b273ca96",
+    "user": "64a607757e5ac1013fbe0d66",
+    "text": "Cats are puurrrrfect :).",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-07-07T22:16:44.036Z",
+    "updatedAt": "2023-07-07T22:16:44.036Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64b578e4c75165d8ff97672b",
+    "user": "64a99da8b83e54e5b2740957",
+    "text": "Ddos attack on this sate ).",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-07-17T17:22:44.198Z",
+    "updatedAt": "2023-07-17T17:22:44.198Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "6270105914e51b84dcca0e25",
+    "user": "62413ee9a7107c0e136daada",
+    "text": "Cats hate mice.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-05-02T17:09:45.547Z",
+    "updatedAt": "2022-05-02T17:09:45.547Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64108a192382a2c7c21a279a",
+    "user": "63fb745efcf661e5a0978073",
+    "text": ",><)(^%&.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-03-14T14:52:09.060Z",
+    "updatedAt": "2023-03-14T14:52:09.060Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64737f2787408914b44f8022",
+    "user": "62a47659e890c82c536f67de",
+    "text": "The most most most new cat  fact.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-05-28T16:19:51.910Z",
+    "updatedAt": "2023-05-28T16:19:51.910Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "6248966096a5c6677bd9da5e",
+    "user": "624584fe4131009fe94925cd",
+    "text": "Hgufjhkgkgfjfjhfjhgk.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-04-02T18:30:56.067Z",
+    "updatedAt": "2022-04-02T18:30:56.067Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64085aeace979a6559212098",
+    "user": "63fb62cbfcf661e5a0977783",
+    "text": "Fatty cat.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-03-08T09:52:42.994Z",
+    "updatedAt": "2023-03-08T09:52:42.994Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "642d9d03f5224bae7befe01a",
+    "user": "642d8dbff5224bae7befcf4d",
+    "text": "322.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-04-05T16:08:35.144Z",
+    "updatedAt": "2023-04-05T16:08:35.144Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62b4c7c0e975509424c66170",
+    "user": "61c088214827dd8cb960eef7",
+    "text": "Cats is very fanny.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-06-23T20:06:24.414Z",
+    "updatedAt": "2022-06-23T20:06:24.414Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63cc0f88eec42e60ec323227",
+    "user": "63bd1572cb93232c7353b865",
+    "text": "Cats love sunny days.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-21T16:15:04.056Z",
+    "updatedAt": "2023-01-21T16:15:04.056Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "6275a4754cca90a69e65a628",
+    "user": "626c5c3341f4aa428ac1f6af",
+    "text": "Котики есть и черные.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-05-06T22:43:01.989Z",
+    "updatedAt": "2022-05-06T22:43:01.989Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64a6a3a27e5ac1013fbe4daf",
+    "user": "649a8c5ae846b1eb98f70de4",
+    "text": "SELECT version().",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-07-06T11:21:06.307Z",
+    "updatedAt": "2023-07-06T11:21:06.307Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "648952517807931a64f5fcb1",
+    "user": "62a4d693e890c82c536f959a",
+    "text": "Анна Павловна улыбнулась и обещалась заняться Пьером, который, она знала, приходился родня по отцу князю Василью. Пожилая дама, сидевшая прежде с ma tante, торопливо встала и догнала князя Василья в передней. С лица ее исчезла вся прежняя притворность интереса. Доброе, исплаканное лицо ее выражало только беспокойство и страх. — Что же вы мне скажете, князь, о моем Борисе? — сказала она, догоняя его в передней. (Она выговаривала имя Борис с особенным ударением на о). — Я не могу оставаться дольше в Петербурге. Скажите, какие известия я могу привезти моему бедному мальчику? Несмотря на то, что князь Василий неохотно и почти неучтиво слушал пожилую даму и даже выказывал нетерпение, она ласково и трогательно улыбалась ему и, чтобы он не ушел, взяла его за руку. — Что вам сто́ит сказать слово государю, и он прямо будет переведен в гвардию, — просила она. — Поверьте, что я сделаю все, что могу, княгиня, — отвечал князь Василий, — но мне трудно просить государя; я бы советовал вам обратиться к Румянцеву, через князя Голицына: это было бы умнее. Пожилая дама носила имя княгини Друбецкой, одной из лучших фамилий России, но она была бедна, давно вышла из света и утратила прежние связи. Она приехала теперь, чтобы выхлопотать определение в гвардию своему единственному сыну. Только затем, чтобы увидеть князя Василия, она назвалась и приехала на вечер к Анне Павловне, только затем она слушала историю виконта. Она испугалась слов князя Василия; когда-то красивое лицо ее выразило озлобление, но это продолжалось только минуту. Она опять улыбнулась и крепче схватилась за руку князя Василия. — Послушайте, князь, — сказала она, — я никогда не просила вас, никогда не буду просить, никогда не напоминала вам о дружбе моего отца к вам. Но теперь, я Богом заклинаю вас, сделайте это для моего сына, и я буду считать вас благодетелем, — торопливо прибавила она. — Нет, вы не сердитесь, а вы обещайте мне. Я просила Голицына, он отказал. Soyez le bon enfant que vous avez été 1, — говорила она, стараясь улыбаться, тогда как в ее глазах были слезы. — Папа́, мы опоздаем, — сказала, поворачивая свою красивую голову на античных плечах, княжна Элен, ожидавшая у двери. Но влияние в свете есть капитал, который надо беречь, чтоб он не исчез. Князь Василий знал это, и, раз сообразив, что ежели бы он стал просить за всех, кто его просит, то вскоре ему нельзя было бы просить за себя, он редко употреблял свое влияние. В деле княгини Друбецкой он почувствовал, однако, после ее нового призыва, что-то вроде укора совести. Она напомнила ему правду: первыми шагами своими в службе он был обязан ее отцу. Кроме того, он видел по ее приемам, что она одна из тех женщин, особенно матерей, которые, однажды взяв себе что-нибудь в голову, не отстанут до тех пор, пока не исполнят их желания, а в противном случае готовы на ежедневные, ежеминутные приставания и даже на сцены. Это последнее соображение поколебало его. — Chère Анна Михайловна, — сказал он с своею всегдашнею фамильярностью и скукой в голосе. — Для меня почти невозможно сделать то, что вы хотите; но чтобы доказать вам, как я люблю вас и чту память покойного отца вашего, я сделаю невозможное: сын ваш будет переведен в гвардию, вот вам моя рука. Довольны вы? — Милый мой, вы благодетель! Я иного и не ждала от вас; я знала, как вы добры. Он хотел уйти. — Постойте, два слова. Une fois passé aux gardes... 2 — Она замялась. — Вы хороши с Михаилом Иларионовичем Кутузовым, рекомендуйте ему Бориса в адъютанты. Тогда бы я была покойна, и тогда бы уж... Князь Василий улыбнулся. — Этого не обещаю. Вы знаете, как осаждают Кутузова с тех пор, как он назначен главнокомандующим. Он мне сам говорил, что все московские барыни сговорились отдать ему всех своих детей в адъютанты. — Нет, обещайте, я не пущу вас, милый благодетель мой. — Папа, — опять тем же тоном повторила красавица, — мы опоздаем. — Ну, au revoir 3, прощайте, видите... — Так завтра вы доложите государю? — Непременно, а Кутузову не обещаю. — Нет, обещайте, обещайте, Basile, — сказала вслед ему Анна Михайловна, с улыбкой молодой кокетки, которая когда-то, должно быть, была ей свойственна, а теперь так не шла к ее истощенному лицу. Она, видимо, забыла свои годы и пускала в ход, по привычке, все старинные женские средства. Но как только он вышел, лицо ее опять приняло то же холодное, притворное выражение, которое было на нем прежде. Она вернулась к кружку, в котором виконт продолжал рассказывать, и опять сделала вид, что слушает, дожидаясь времени уехать, так как дело ее было сделано. — Но как вы находите всю эту последнюю комедию du sacre de Milan? 4 — сказала Анна Павловна. — Et la nouvelle comédie des peuples de Gênes et de Lucques qui viennent présenter leurs voeux à M. Buonaparte. M. Buonaparte assis sur un trône, et exauçant les voeux des nations! Adorable! Non, mais c'est a en devenir folle! On dirait que le monde entier a perdu la tête 5. Князь Андрей усмехнулся, прямо глядя в лицо Анны Павловны. — «Dieu me la donne, gare à qui la touche», — сказал он (слова Бонапарте, сказанные при возложении короны). — On dit qu'il a été très beau en prononçant ces paroles 6, — прибавил он и еще раз повторил эти слова по-итальянски: «Dio mi la dona, guai a chi la tocca». — J'espère enfin, — продолжала Анна Павловна, — que ça a été la goutte d'eau qui fera déborder le verre. Les souverains ne peuvent plus supporter cet homme qui menace tout 7. — Les souverains? Je ne parle pas de la Russie, — сказал виконт учтиво и безнадежно. — Les souverains, madame? Qu'ont ils fait pour Louis XVI, pour la reine, pour madame Elisabeth? Rien, — продолжал он, одушевляясь. — Et croyez-moi, ils subissent la punition pour leur trahison de la cause des Bourbons. Les souverains? Ils envoient des ambassadeurs complimenter l'usurpateur 8. И он, презрительно вздохнув, опять переменил положение. Князь Ипполит, долго смотревший в лорнет на виконта, вдруг при этих словах повернулся всем телом к маленькой княгине и, попросив у нее иголку, стал показывать ей, рисуя иголкой на столе, герб Конде. Он растолковывал ей этот герб с таким значительным видом, как будто княгиня просила его об этом. — Bâton de gueules, engrêlé de gueules d'azur — maison Condé 9, — говорил он. Княгиня, улыбаясь, слушала. — Ежели еще год Бонапарте останется на престоле Франции, — продолжал виконт начатый разговор, с видом человека, не слушающего других, но в деле, лучше всех ему известном, следящего только за ходом своих мыслей, — то дела пойдут слишком далеко. Интригой, насилием, изгнаниями, казнями общество, я разумею хорошее общество, французское, навсегда будет уничтожено, и тогда... Он пожал плечами и развел руками. Пьер хотел было сказать что-то: разговор интересовал его, но Анна Павловна, караулившая его, перебила. — Император Александр, — сказала она с грустью, сопутствующей всегда ее речам об императорской фамилии, — объявил, что он предоставит самим французам выбрать образ правления. И я думаю, нет сомнения, что вся нация, освободившись от узурпатора, бросится в руки законного короля, — сказала Анна Павловна, стараясь быть любезной с эмигрантом и роялистом. — Это сомнительно, — сказал князь Андрей. — Monsieur le vicomte 10 совершенно справедливо полагает, что дела зашли уже слишком далеко. Я думаю, что трудно будет возвратиться к старому. — Сколько я слышал, — краснея, опять вмешался в разговор Пьер, — почти все дворянство перешло уже на сторону Бонапарта. — Это говорят бонапартисты, — сказал виконт, не глядя на Пьера. — Теперь трудно узнать общественное мнение Франции. — Bonaparte la dit 11, — сказал князь Андрей с усмешкой. (Видно было, что виконт ему не нравился и что он, хотя и не смотрел на него, против него обращал свои речи.) — «Je leur ai montré le chemin de la gloire, — сказал он после недолгого молчания, опять повторяя слова Наполеона, — ils n'en ont pas voulu; je leur ai ouvert mes antichambres, ils se sont précipités en foule...» Je ne sais pas à quel point il a eu le droit de le dire 12. — Aucun 13, — возразил виконт. — После убийства герцога даже самые пристрастные люди перестали видеть в нем героя. Si même ça a été un héros pour certaines gens, — сказал виконт, обращаясь к Анне Павловне, — depuis l'assassinat du duc il y a un martyr de plus dans le ciel, un héros de moins sur la terre 14. Не успели еще Анна Павловна и другие улыбкой оценить этих слов виконта, как Пьер опять ворвался в разговор, и Анна Павловна, хотя и предчувствовавшая, что он скажет что-нибудь неприличное, уже не могла остановить его. — Казнь герцога Энгиенского, — сказал Пьер, — была государственная необходимость; и я именно вижу величие души в том, что Наполеон не побоялся принять на себя одного ответственность в этом поступке. — Dieu! mon Dieu! 15 — страшным шепотом проговорила Анна Павловна. — Comment, monsieur Pierre, vous trouvez que l'assassinat est grandeur d'âme? 16 — сказала маленькая княгиня, улыбаясь и придвигая к себе работу. — Ah! Oh! — сказали разные голоса. — Capital 17 — по-английски сказал князь Ипполит и принялся бить себя ладонью по коленке. Виконт только пожал плечами. Пьер торжественно посмотрел сверх очков на слушателей. — Я потому так говорю, — продолжал он с отчаянностью, — что Бурбоны бежали от революции, предоставив народ анархии; а один Наполеон умел понять революцию, победить ее, и потому для общего блага он не мог остановиться перед жизнью одного человека. — Не хотите ли перейти к тому столу? — сказала Анна Павловна. Но Пьер, не отвечая, продолжал свою речь. — Нет, — говорил он, все более и более одушевляясь, — Наполеон велик, потому что он стал выше революции, подавил ее злоупотребления, удержав все хорошее — и равенство граждан, и свободу слова и печати, — и только потому приобрел власть. — Да, ежели бы он, взяв власть, не пользуясь ею для убийства, отдал бы ее законному королю, — сказал виконт, — тогда бы я назвал его великим человеком. — Он бы не мог этого сделать. Народ отдал ему власть только затем, чтоб он избавил его от Бурбонов, и потому, что народ видел в нем великого человека. Революция была великое дело, — продолжал мсье Пьер, выказывая этим отчаянным и вызывающим вводным предложением свою великую молодость и желание все поскорее высказать. — Революция и цареубийство великое дело?.. После этого... да не хотите ли перейти к тому столу? — повторила Анна Павловна. — Contrat social 18, — с кроткой улыбкой сказал виконт. — Я не говорю про цареубийство. Я говорю про идеи. — Да, идеи грабежа, убийства и цареубийства, — опять перебил иронический голос. — Это были крайности, разумеется, но не в них все значение, а значение в правах человека, в эманципации от предрассудков, в равенстве граждан; и все эти идеи Наполеон удержал во всей их силе. — Свобода и равенство, — презрительно сказал виконт, как будто решившийся, наконец, серьезно доказать этому юноше всю глупость его речей, — всё громкие слова, которые уже давно компрометировались. Кто же не любит свободы и равенства? Еще Спаситель наш проповедовал свободу и равенство. Разве после революции люди стали счастливее? Напротив. Мы хотели свободы, а Бонапарте уничтожил ее. Князь Андрей с улыбкой посматривал то на Пьера, то на виконта, то на хозяйку. В первую минуту выходки Пьера Анна Павловна ужаснулась, несмотря на свою привычку к свету; но когда она увидела, что, несмотря на произнесенные Пьером святотатственные речи, виконт не выходил из себя, и когда она убедилась, что замять этих речей уже нельзя, она собралась с силами и, присоединившись к виконту, напала на оратора. — Mais, mon cher monsieur Pierre 19, — сказала Анна Павловна, — как же вы объясняете великого человека, который мог казнить герцога, наконец просто человека, без суда и без вины? — Я бы спросил, — сказал виконт, — как monsieur объясняет восемнадцатое брюмера? Разве это не обман? C'est un escamotage, qui ne ressemble nullement à la manière d'agir d'un grand homme 20. — А пленные в Африке, которых он убил? — сказала маленькая княгиня. — Это ужасно! — И она пожала плечами. — C'est un roturier, vous aurez beau dire 21, — сказал князь Ипполит. Мсье Пьер не знал, кому отвечать, оглянул всех и улыбнулся. Улыбка у него была не такая, как у других людей, сливающаяся с неулыбкой. У него, напротив, когда приходила улыбка, то вдруг, мгновенно исчезало серьезное и даже несколько угрюмое лицо и являлось другое — детское, доброе, даже глуповатое и как бы просящее прощения. Виконту, который видел его в первый раз, стало ясно, что этот якобинец совсем не так страшен, как его слова. Все замолчали. — Как вы хотите, чтоб он всем отвечал вдруг? — сказал князь Андрей. — Притом надо в поступках государственного человека различать поступки частного лица, полководца или императора. Мне так кажется. — Да, да, разумеется, — подхватил Пьер, обрадованный выступавшею ему подмогой. — Нельзя не сознаться, — продолжал князь Андрей, — Наполеон как человек велик на Аркольском мосту, в госпитале в Яффе, где он чумным подает руку, но... но есть другие поступки, которые трудно оправдать. Князь Андрей, видимо, желавший смягчить неловкость речи Пьера, приподнялся, сбираясь ехать и подавая знак жене.   Вдруг князь Ипполит поднялся и, знаками рук останавливая всех и прося присесть, заговорил: — Ah! aujourd'hui on m'a raconté une anecdote moscovite, charmante: il faut que je vous en régale. Vous m'excusez, vicomte, il faut que je raconte en russe. Autrement on ne sentira pas le sel de l'histoire 22. И князь Ипполит начал говорить по-русски таким выговором, каким говорят французы, пробывшие с год в России. Все приостановились: так оживленно, настоятельно требовал князь Ипполит внимания к своей истории. — В Moscou есть одна бариня, une dame. И она очень скупо. Ей нужно было иметь два valets de pied 23 за карета. И очень большой ростом. Это было ее вкусу. И она имела une femme de chambre 24, еще большой росту. Она сказала... Тут князь Ипполит задумался, видимо, с трудом соображая. — Она сказала... да, она сказала: «Девушка (à la femme de chambre), надень livrée и поедем со мной, за карета, faire des visites 25». Тут князь Ипполит фыркнул и захохотал гораздо прежде своих слушателей, что произвело невыгодное для рассказчика впечатление. Однако многие, и в том числе пожилая дама и Анна Павловна, улыбнулись. — Она поехала. Незапно сделалась сильный ветер. Девушка потеряла шляпа, и длинны волоса расчесались... Тут он не мог уже более держаться и стал отрывисто смеяться и сквозь этот смех проговорил: — И весь свет узнал... Тем анекдот и кончился. Хотя и непонятно было, для чего он его рассказал и для чего его надо было рассказать непременно по-русски, однако Анна Павловна и другие оценили светскую любезность князя Ипполита, так приятно закончившего неприятную и нелюбезную выходку мсье Пьера. Разговор после анекдота рассыпался на мелкие, незначительные толки о будущем и прошедшем бале, спектакле, о том, когда и где кто увидится.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-06-14T05:38:25.295Z",
+    "updatedAt": "2023-06-14T05:38:25.295Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "640e3a0f59ce917bc0d1dbf2",
+    "user": "640b5ccc2c4c3955079b01f8",
+    "text": "The best fact about cats.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-03-12T20:46:07.972Z",
+    "updatedAt": "2023-03-12T20:46:07.972Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62b07b42ef91874782935b9d",
+    "user": "62a479b7e890c82c536f6904",
+    "text": "Cats can jump.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-06-20T13:50:58.713Z",
+    "updatedAt": "2022-06-20T13:50:58.713Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "591f98783b90f7150a19c1d3",
+    "__v": 0,
+    "text": "Like birds, cats have a homing ability that uses its biological clock, the angle of the sun, and the Earth's magnetic field. A cat taken far from its home can return to it. But if a cat's owners move far from its home, the cat can't find them.",
+    "source": "api",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "type": "cat",
+    "createdAt": "2018-01-04T01:10:54.673Z",
+    "deleted": false,
+    "used": false,
+    "user": "5a9ac18c7478810ea6c06381"
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "591f98703b90f7150a19c174",
+    "__v": 0,
+    "text": "The way you treat kittens in the early stages of it's life will render it's personality traits later in life.",
+    "source": "api",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "type": "cat",
+    "createdAt": "2018-01-04T01:10:54.673Z",
+    "deleted": false,
+    "used": false,
+    "user": "5a9ac18c7478810ea6c06381"
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63c5335d5f1912628029567b",
+    "user": "63bbaedb305a83e75c1fc46f",
+    "text": "45737.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-16T11:22:05.132Z",
+    "updatedAt": "2023-01-16T11:22:05.132Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "64563988e3dd0e89435e36ca",
+    "user": "6453a4bcfe1b1ed1df38fbbd",
+    "text": "Cat eat red meat1.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-05-06T11:27:04.025Z",
+    "updatedAt": "2023-05-06T11:27:04.025Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "591f98088dec2e14e3c20b0e",
+    "__v": 0,
+    "text": "In 1987, cats overtook dogs as the number one pet in America (about 50 million cats resided in 24 million homes in 1986). About 37% of American homes today have at least one cat.",
+    "source": "api",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "type": "cat",
+    "createdAt": "2018-01-04T01:10:54.673Z",
+    "deleted": false,
+    "used": false,
+    "user": "5a9ac18c7478810ea6c06381"
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62701e2b14e51b84dcca296e",
+    "user": "6262fc13f782346dbf6643ac",
+    "text": "Gatoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooos .",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-05-02T18:08:43.638Z",
+    "updatedAt": "2022-05-02T18:08:43.638Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63d5a9c1a8fc3a7021155fc8",
+    "user": "63cc6aedeec42e60ec328b12",
+    "text": "Cat is beautiful friend.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-28T23:03:29.734Z",
+    "updatedAt": "2023-01-28T23:03:29.734Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "61c4935f95ba44272eb9b854",
+    "user": "61c46a7495ba44272eb975e2",
+    "text": "New fact about cats.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2021-12-23T15:18:55.416Z",
+    "updatedAt": "2021-12-23T15:18:55.416Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63bf3e0d7faacb8ad47b62b0",
+    "user": "63b7fd115523c1e1d7bd1d56",
+    "text": "Ldavi.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-11T22:54:05.288Z",
+    "updatedAt": "2023-01-11T22:54:05.288Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "60f4d9fe14c3910017eab8ab",
+    "type": "cat",
+    "deleted": false,
+    "user": "60f4d9c714c3910017eab8a5",
+    "text": "Gatos não gostam de humanos.",
+    "createdAt": "2021-07-19T01:48:46.578Z",
+    "updatedAt": "2021-07-19T01:48:46.578Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "6449725686e35c38e78d9bae",
+    "user": "6448371d7ed67a4bff5dce7c",
+    "text": "Test123.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-04-26T18:49:58.231Z",
+    "updatedAt": "2023-04-26T18:49:58.231Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "6277860477050bfba0c76732",
+    "user": "626d537de5fb639a3c4fed64",
+    "text": "0203010.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-05-08T08:57:40.415Z",
+    "updatedAt": "2022-05-08T08:57:40.415Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63c70ed8220958920a700557",
+    "user": "63c70e51220958920a70050c",
+    "text": "Про.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-17T21:10:48.003Z",
+    "updatedAt": "2023-01-17T21:10:48.003Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "642e7c5c7562deff10940e02",
+    "user": "642e7c527562deff10940dea",
+    "text": "Dsa.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-04-06T08:01:32.401Z",
+    "updatedAt": "2023-04-06T08:01:32.401Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "6407492b201e5eeeda86db84",
+    "user": "63fc93bc281e7bd8f2c43041",
+    "text": "Cat get fat becau322e of stress.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-03-07T14:24:43.632Z",
+    "updatedAt": "2023-03-07T14:24:43.632Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "62b4c116e975509424c65682",
+    "user": "61c088214827dd8cb960eef7",
+    "text": "Fact is fact.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2022-06-23T19:37:58.153Z",
+    "updatedAt": "2022-06-23T19:37:58.153Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "6467829845c01bbe83b3da6f",
+    "user": "644fac390388a3c767567e01",
+    "text": "С.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-05-19T14:07:20.722Z",
+    "updatedAt": "2023-05-19T14:07:20.722Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "_id": "5a36ec5fae877e0021ed79f5",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2018-03-03T21:20:02.088Z",
+    "user": "5a9ac18c7478810ea6c06381",
+    "text": "It has been estimated that a cat yawns on the average of 109,500 times in his life.",
+    "deleted": false,
+    "source": "user",
+    "__v": 0,
+    "type": "cat",
+    "used": false
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "_id": "63d25d0c6321d18c83b2c6cd",
+    "user": "63d2405e6321d18c83b2b6f1",
+    "text": "Zumzum.",
+    "type": "cat",
+    "deleted": false,
+    "createdAt": "2023-01-26T10:59:24.164Z",
+    "updatedAt": "2023-01-26T10:59:24.164Z",
+    "__v": 0
+  }
+]
