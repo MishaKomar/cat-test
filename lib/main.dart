@@ -9,5 +9,5 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await HiveStorageProvider.init();
   Bloc.observer = BaseBlocObserver();
-  runApp(const CatFactTestApp());
+  runApp(const FactsApp());
 }

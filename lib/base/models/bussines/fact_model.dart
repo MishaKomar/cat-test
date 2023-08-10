@@ -1,4 +1,5 @@
 import 'base_model.dart';
+import 'package:intl/intl.dart';
 
 class FactModel implements BaseModel {
   /// Unique ID for the Fact
@@ -32,6 +33,7 @@ class FactModel implements BaseModel {
   final int statusSentCount;
 
   String get imageUrl => 'https://cataas.com/cat?imageId=$id';
+  String get updatedAtShort => DateFormat().format(updatedAt);
 
   const FactModel({
     required this.id,

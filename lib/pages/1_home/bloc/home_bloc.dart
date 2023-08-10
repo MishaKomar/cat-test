@@ -31,7 +31,7 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
     try {
       final fact = await _repository.randomFact();
       emit(
-        state.copyWith(
+        HomeState(
           loading: false,
           fact: fact,
           number: Random().nextInt(100),

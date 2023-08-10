@@ -41,12 +41,10 @@ class HistoryPage extends StatelessWidget {
               itemBuilder: (context, i) => ListTile(
                 title: Text(state.list[i].text),
                 subtitle: Text(
-                  state.list[i].updatedAt.toIso8601String(),
+                  state.list[i].updatedAtShort,
                 ),
               ),
-              separatorBuilder: (context, i) => const SizedBox(
-                height: 4,
-              ),
+              separatorBuilder: (context, i) => const SizedBox(height: 4),
             );
           },
         ),

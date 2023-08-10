@@ -5,7 +5,7 @@ import 'package:cattest/pages/2_history/bloc/history_bloc.dart';
 import 'package:cattest/pages/2_history/home_page.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-class CatAppRouter {
+class FactsAppRouter {
   static const homePath = '/';
   static const historyPath = '/history';
 
