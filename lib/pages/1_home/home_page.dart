@@ -3,7 +3,6 @@ import 'package:cattest/base/widgets/error_baner.dart';
 import 'package:cattest/base/widgets/fact_card.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:cached_network_image/cached_network_image.dart';
 
 import 'bloc/home_bloc.dart';
 import 'bloc/home_event.dart';

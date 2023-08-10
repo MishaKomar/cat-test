@@ -1,5 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
+import 'package:shimmer/shimmer.dart';
 
 class FactCard extends StatelessWidget {
   final String imageUrl;
@@ -33,8 +34,12 @@ class FactCard extends StatelessWidget {
               height: MediaQuery.of(context).size.height / 3,
               fit: BoxFit.cover,
               imageUrl: imageUrl,
-              placeholder: (context, url) => const Center(
-                child: CircularProgressIndicator(),
+              placeholder: (context, url) => Shimmer.fromColors(
+                baseColor: Colors.grey.shade300,
+                highlightColor: Colors.black54,
+                child: Container(
+                  color: Colors.grey.shade300,
+                ),
               ),
               errorWidget: (context, url, error) => const Icon(Icons.error),
             ),

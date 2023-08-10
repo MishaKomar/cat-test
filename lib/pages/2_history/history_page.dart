@@ -36,16 +36,18 @@ class HistoryPage extends StatelessWidget {
       body: Center(
         child: BlocBuilder<HistoryBloc, HistoryState>(
           builder: (BuildContext context, HistoryState state) {
-            return ListView.separated(
-              itemCount: state.list.length,
-              itemBuilder: (context, i) => ListTile(
-                title: Text(state.list[i].text),
-                subtitle: Text(
-                  state.list[i].updatedAtShort,
-                ),
-              ),
-              separatorBuilder: (context, i) => const SizedBox(height: 4),
-            );
+            return state.list.isEmpty
+                ? const Text('No data yet')
+                : ListView.separated(
+                    itemCount: state.list.length,
+                    itemBuilder: (context, i) => ListTile(
+                      title: Text(state.list[i].text),
+                      subtitle: Text(
+                        state.list[i].updatedAtShort,
+                      ),
+                    ),
+                    separatorBuilder: (context, i) => const SizedBox(height: 4),
+                  );
           },
         ),
       ),
