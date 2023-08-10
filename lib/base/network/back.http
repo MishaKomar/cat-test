@@ -1,0 +1,6 @@
+GET https://cat-fact.herokuapp.com/facts
+Content-Type: application/json
+
+########
+GET https://cataas.com/cat
+Content-Type: application/json
