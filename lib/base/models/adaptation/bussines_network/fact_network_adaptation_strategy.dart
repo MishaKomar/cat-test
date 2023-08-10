@@ -1,12 +1,13 @@
-import 'package:cattest/base/models/adaptation/base_adaptation_strategy.dart';
 import 'package:cattest/base/models/bussines/base_model.dart';
 import 'package:cattest/base/models/bussines/fact_model.dart';
 import 'package:cattest/base/models/network/base_network_response.dart';
 import 'package:cattest/base/models/network/fact_response.dart';
 import 'package:cattest/base/models/network/fact_status.dart';
 
-class FactAdaptationStrategy implements BaseAdaptationStrategy {
-  const FactAdaptationStrategy();
+import 'base_network_adaptation_strategy.dart';
+
+class FactNetworkAdaptationStrategy implements BaseNetworkAdaptationStrategy {
+  const FactNetworkAdaptationStrategy();
   @override
   FactModel to(BaseNetworkResponse networkResponse) {
     final networkResponseAs = networkResponse as FactResponse;

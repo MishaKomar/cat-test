@@ -23,15 +23,15 @@ class HistoryBloc extends Bloc<HistoryEvent, HistoryState> {
     add(const LoadHistoryInput());
   }
 
-  FutureOr _onLoadHistoryInput(
-      LoadHistoryInput event, Emitter<HistoryState> emit) {
-    final list = _repository.factHistory();
+  FutureOr<void> _onLoadHistoryInput(
+      LoadHistoryInput event, Emitter<HistoryState> emit) async {
+    final list = await _repository.factsHistory();
     emit(state.copyWith(list: list));
   }
 
-  FutureOr _onClearHistoryInput(
-      ClearHistoryInput event, Emitter<HistoryState> emit) {
-    final list = _repository.clearHistory();
-    emit(state.copyWith(list: list));
+  FutureOr<void> _onClearHistoryInput(
+      ClearHistoryInput event, Emitter<HistoryState> emit) async {
+    await _repository.clearHistory();
+    emit(state.copyWith(list: []));
   }
 }

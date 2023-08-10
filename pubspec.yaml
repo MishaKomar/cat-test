@@ -40,6 +40,7 @@ dependencies:
   retrofit: ^4.0.1
   dio: ^5.3.2
   cached_network_image: ^3.2.3
+  path_provider: ^2.1.0
   logger: any
 
 dev_dependencies:
