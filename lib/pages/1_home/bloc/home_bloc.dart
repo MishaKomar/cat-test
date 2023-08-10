@@ -3,6 +3,7 @@ import 'dart:math';
 
 import 'package:cattest/base/repositories/fact_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:logger/logger.dart';
 
 import 'home_event.dart';
 import 'home_state.dart';
@@ -26,16 +27,18 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
   FutureOr<void> _onNextFactInput(
       NextFactInput event, Emitter<HomeState> emit) async {
     emit(state.copyWith(loading: true));
+
     try {
-      final mockCatFact = await _repository.randomFact();
+      final fact = await _repository.randomFact();
       emit(
         state.copyWith(
           loading: false,
-          fact: mockCatFact,
+          fact: fact,
           number: Random().nextInt(100),
         ),
       );
-    } catch (e) {
+    } catch (e, s) {
+      Logger().e(e, stackTrace: s);
       emit(
         HomeState(
           error: e.toString(),

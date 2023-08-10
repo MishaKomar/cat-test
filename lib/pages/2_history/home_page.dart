@@ -39,9 +39,11 @@ class HistoryPage extends StatelessWidget {
           builder: (BuildContext context, HistoryState state) {
             return ListView.separated(
               itemCount: state.list.length,
-              itemBuilder: (context, i) => CatFactTile(
-                title: state.list[i].text,
-                subtitle: state.list[i].updatedAt.toIso8601String(),
+              itemBuilder: (context, i) => ListTile(
+                title: Text(state.list[i].text),
+                subtitle: Text(
+                  state.list[i].updatedAt.toIso8601String(),
+                ),
               ),
               separatorBuilder: (context, i) => const SizedBox(
                 height: 4,

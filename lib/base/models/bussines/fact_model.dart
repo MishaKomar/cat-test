@@ -31,6 +31,8 @@ class FactModel implements BaseModel {
   /// The number of times the Fact has been sent by the CatBot
   final int statusSentCount;
 
+  String get imageUrl => 'https://cataas.com/cat?imageId=$id';
+
   const FactModel({
     required this.id,
     required this.version,

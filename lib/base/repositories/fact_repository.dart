@@ -21,7 +21,9 @@ class FactsRepository {
   final BaseNetworkClient _networkClient;
   final BaseAdaptationStrategy _adaptationStrategy;
 
-  const FactsRepository._(
+  List<FactModel> _list = [];
+
+  FactsRepository._(
     this._networkClient,
     this._adaptationStrategy,
   );
@@ -29,14 +31,16 @@ class FactsRepository {
   Future<FactModel> randomFact() async {
     final factResponse = await _networkClient.getRandomFact();
     final model = _adaptationStrategy.to(factResponse) as FactModel;
+    _list.add(model);
     return model;
   }
 
   List<FactModel> factHistory() {
-    return List.generate(10, (index) => FactModel.mock());
+    return _list;
   }
 
   List<FactModel> clearHistory() {
-    return [];
+    _list = [];
+    return _list;
   }
 }

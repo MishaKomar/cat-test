@@ -23,6 +23,7 @@ class HomeState {
   });
 
   HomeState copyWith({
+    String? image,
     FactModel? fact,
     String? error,
     bool? loading,

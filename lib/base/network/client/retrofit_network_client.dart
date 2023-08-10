@@ -7,6 +7,7 @@ import 'package:retrofit/retrofit.dart';
 
 part 'retrofit_network_client.g.dart';
 
+// TODO: move to env variables
 @RestApi(baseUrl: 'https://cat-fact.herokuapp.com')
 abstract class RetrofitNetworkClient implements BaseNetworkClient {
   factory RetrofitNetworkClient(Dio dio, {String baseUrl}) =
