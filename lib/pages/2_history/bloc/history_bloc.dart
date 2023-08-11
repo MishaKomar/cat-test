@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:cattest/base/repositories/fact_repository.dart';
+import 'package:cattest/base/repositories/facts_repository.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'history_event.dart';
