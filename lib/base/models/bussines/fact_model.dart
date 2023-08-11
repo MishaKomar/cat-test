@@ -49,18 +49,4 @@ class FactModel implements BaseModel {
     required this.statusVerified,
     required this.statusSentCount,
   });
-
-  factory FactModel.mock() => FactModel(
-        id: '58e008780aac31001185ed05',
-        version: 0,
-        user: '58e007480aac31001185ecef',
-        text:
-            'Owning a cat can reduce the risk of stroke and heart attack by a third.',
-        updatedAt: DateTime.parse('2020-08-23T20:20:01.611Z'),
-        createdAt: DateTime.parse('2018-03-29T20:20:03.844Z'),
-        deleted: false,
-        type: 'cat',
-        statusVerified: true,
-        statusSentCount: 1,
-      );
 }

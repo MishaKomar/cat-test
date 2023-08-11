@@ -10,7 +10,7 @@ class FactStorageAdaptationStrategy implements BaseStorageAdaptationStrategy {
   const FactStorageAdaptationStrategy();
 
   @override
-  FactModel to(BaseEnity entity) {
+  FactModel to(BaseEntity entity) {
     final entityAs = entity as FactEntity;
     return FactModel(
       id: entityAs.id,

@@ -4,8 +4,9 @@ import 'package:hive/hive.dart';
 part 'fact_entity.g.dart';
 
 @HiveType(typeId: 0)
-class FactEntity extends HiveObject implements BaseEnity {
+class FactEntity extends HiveObject implements BaseEntity {
   @HiveField(0)
+  @override
   final String id;
   @HiveField(1)
   final int version;
