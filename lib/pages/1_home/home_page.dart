@@ -1,12 +1,13 @@
 import 'package:cattest/base/navigation/base_navigation.dart';
-import 'package:cattest/base/widgets/error_baner.dart';
-import 'package:cattest/base/widgets/fact_card.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'bloc/home_bloc.dart';
 import 'bloc/home_event.dart';
 import 'bloc/home_state.dart';
+
+import 'widgets/error_baner.dart';
+import 'widgets/fact_card.dart';
 
 /// {@template home_page}
 /// A [StatelessWidget] that:
@@ -25,9 +26,8 @@ class HomePage extends StatelessWidget {
           actions: <Widget>[
             IconButton(
               icon: const Icon(Icons.history),
-              onPressed: () {
-                Navigator.of(context).pushNamed(FactsAppRouter.historyPath);
-              },
+              onPressed: () =>
+                  Navigator.of(context).pushNamed(FactsAppRouter.historyPath),
             ),
           ],
         ),
@@ -46,8 +46,12 @@ class HomePage extends StatelessWidget {
                 subtitle: state.fact!.updatedAtShort,
                 body: state.fact!.text,
                 actionDisabled: state.loading,
-                onPressed: () =>
+                primaryActionText: 'ANOTHER FACT',
+                secondaryActionText: 'FACT HISTORY',
+                onPrimaryPressed: () =>
                     context.read<HomeBloc>().add(const NextFactInput()),
+                onSecondaryPressed: () =>
+                    Navigator.of(context).pushNamed(FactsAppRouter.historyPath),
               ),
           ],
         ),

@@ -8,15 +8,21 @@ class FactCard extends StatelessWidget {
   final String subtitle;
   final String body;
   final bool actionDisabled;
-  final VoidCallback? onPressed;
+  final String primaryActionText;
+  final String secondaryActionText;
+  final VoidCallback? onPrimaryPressed;
+  final VoidCallback? onSecondaryPressed;
 
   const FactCard({
     required this.imageUrl,
     required this.title,
     required this.subtitle,
     required this.body,
+    required this.primaryActionText,
+    required this.secondaryActionText,
     this.actionDisabled = false,
-    this.onPressed,
+    this.onPrimaryPressed,
+    this.onSecondaryPressed,
     super.key,
   });
 
@@ -68,8 +74,12 @@ class FactCard extends StatelessWidget {
               alignment: MainAxisAlignment.start,
               children: [
                 TextButton(
-                  onPressed: actionDisabled ? null : onPressed,
-                  child: const Text('NEXT'),
+                  onPressed: actionDisabled ? null : onPrimaryPressed,
+                  child: Text(primaryActionText),
+                ),
+                TextButton(
+                  onPressed: onSecondaryPressed,
+                  child: Text(secondaryActionText),
                 ),
               ],
             ),
