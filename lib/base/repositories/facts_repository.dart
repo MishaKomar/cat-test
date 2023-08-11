@@ -1,5 +1,4 @@
 import 'package:cattest/base/env/env.dart';
-import 'package:cattest/base/models/adaptation/bussines_network/base_network_adaptation_strategy.dart';
 import 'package:cattest/base/models/adaptation/bussines_network/fact_network_adaptation_strategy.dart';
 import 'package:cattest/base/models/bussines/fact_model.dart';
 import 'package:cattest/base/network/client/base_network_client.dart';
@@ -22,7 +21,7 @@ class FactsRepository {
 
   final BaseNetworkClient _networkClient;
   final FactsStorage _storage;
-  final BaseNetworkAdaptationStrategy _networkAdaptationStrategy;
+  final FactNetworkAdaptationStrategy _networkAdaptationStrategy;
 
   FactsRepository._(
     this._networkClient,
@@ -32,7 +31,7 @@ class FactsRepository {
 
   Future<FactModel> randomFact() async {
     final factResponse = await _networkClient.getRandomFact();
-    final model = _networkAdaptationStrategy.to(factResponse) as FactModel;
+    final model = _networkAdaptationStrategy.to(factResponse);
     await _storage.create(model);
     return model;
   }
